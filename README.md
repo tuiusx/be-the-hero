@@ -27,3 +27,13 @@ Na parte do *front-end web* nós utilizamos as seguintes tecnologias:
 
 - React;
 - Axios.
+
+---
+
+## Mobile:
+
+Na parte do *mobile* nós utilizamos as seguintes tecnologias:
+
+- React Native;
+- Expo;
+- Axios.
