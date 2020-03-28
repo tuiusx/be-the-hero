@@ -1,4 +1,4 @@
-Omnistack 11.0 
+Be The Hero - Omnistack 11.0
 
 Sobre a aplicação Be The Hero:
 
